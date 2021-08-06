@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315109458603",
+    "firebase_url": "https://akbuasdatabase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "akbuasdatabase",
+    "storage_bucket": "akbuasdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315109458603:android:bb63a6a7f0419eb73d6dee",
+        "android_client_info": {
+          "package_name": "com.example.a10118327_uas_akb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315109458603-psqv1nu53meo16b57dh6ikdngssfinl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtijia8qO0zcZLgxx6Ig3BmuWb-fqbEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315109458603-psqv1nu53meo16b57dh6ikdngssfinl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
